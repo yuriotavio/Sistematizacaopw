@@ -1,0 +1,34 @@
+	@charset "UTF-8";
+
+	body{
+		background-color:white;
+
+		
+	
+	}
+
+	fieldset id="titulo"{
+		background-color:skyblue;
+	}
+	
+	img, h1, h3{
+		display: inline-block;
+	}
+
+	h1{
+		margin: 10px;
+	
+	}
+	h4{
+		margin: 30px;
+	
+	}
+	h3{
+		margin: 15px;
+	}
+	img{
+		margin: 30px;
+	}
+	fieldset{
+		background-color: skyblue;
+	}
